@@ -31,5 +31,5 @@ SELECT name FROM City ORDER BY id
 
 ## 授權
 
-此專案為示範用途；若你要加上授權條款，建議另外新增 `LICENSE`。
+此專案為示範用途
 
